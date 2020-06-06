@@ -27,6 +27,7 @@
 9. The label is changed to `Status: Ready to Merge`. Contributors with Merge permissions make sure the test report looks good before merging.
 
 <h4> Change request during code review or testing </h4>
+
 1. Changes needed are comment by the code reviewers and the label is changed to `Status: Changes Requested`.
 2. After the changes are commited the PR repeat steps 3-8 of Pull request workflow.
 

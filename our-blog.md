@@ -1,6 +1,6 @@
 # Our Blog
 
-We currently maintain a Blog on Medium called [AnitaB.org Open Source Medium Publication](https://medium.com/anitab-org-open-source).
+We currently maintain a Medium Publication called [AnitaB.org Open Source](https://medium.com/anitab-org-open-source).
 
 **Table of Content:**
 
@@ -22,7 +22,7 @@ We currently maintain a Blog on Medium called [AnitaB.org Open Source Medium Pub
 
 ## How to submit to our Publication
 
-To write in our publication you need to be admitted as a writter on Medium. If you are not already, please let us know on [#outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research) Zulip stream.
+To write in our publication you nneed to be admitted as a writer on AnitaB.org Open Source Medium Publication. If you are not already, please let us know on [#outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research) Zulip stream.
 
 **Requirements:**
 - Have a Medium account

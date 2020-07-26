@@ -30,7 +30,7 @@ To write in our publication you nneed to be admitted as a writer on AnitaB.org O
 **Instructions:**
 
 1. Be added as a writer to the Medium publication (asks us on [#outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research) Zulip stream if you are not added yet).
-2. Click 3 dots in your blog post (either published or as a draft)
+2. Click 3-dots button in the top-right corner of the page of your blog post (either published or as a draft)
     <img src="https://user-images.githubusercontent.com/11148726/87883568-3c60a980-ca00-11ea-8455-5bed7b4f1db1.png" alt="click 3 dots on the blog page image" width="600"/>
 3. Select "Add to publication" option
 4. Select the AnitaB.org Open Source (you will see this in case you are a writer)

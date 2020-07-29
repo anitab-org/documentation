@@ -9,7 +9,7 @@ Members of the global AnitaB.org Local community network organize events and pro
 
 ## [About our Open Source teams](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers)
 
-    -[Android](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding/topic/Android):calling:
+    -[Android :calling:](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding/topic/Android)
     -[Documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentation):black_nib:
     -[Flutter/Dart](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding/topic/Flutter):dart:
     -[IOS/Swift](https://anitab-org.zulipchat.com/#narrow/stream/222534-mentorship-system/topic/iOS):iphone:

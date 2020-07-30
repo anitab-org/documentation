@@ -7,18 +7,4 @@ At AnitaB.org, we’re committed to increasing the influence of women on all asp
 
 Members of the global AnitaB.org Local community network organize events and provide one another with resources to navigate careers in tech. They organize valuable meetups, codeathons, and one-day HopperX1 events modeled after the Grace Hopper Celebration.
 
-## [About our Open Source teams](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers)
-
--[Android ](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding/topic/Android):calling:
-
--[Documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentation):black_nib:
-
--[Flutter/Dart](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding/topic/Flutter):dart:
-
--[IOS/Swift](https://anitab-org.zulipchat.com/#narrow/stream/222534-mentorship-system/topic/iOS):iphone:
-
--[JavaScript](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding/topic/Web):computer:
-
--[Python](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding/topic/Python):snake:
-
-
+For Information regarding our Zulip channel, Zulip /README.md

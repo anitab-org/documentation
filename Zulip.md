@@ -1,5 +1,6 @@
 # Hi :smiley: :wave:
 
+
 ## If you’re new here, here’s what you can do to get started with this community:
 
 :heavy_check_mark: [Introduce yourself on #newcomers in the #newcomers > Introductions topic and tell us your motivations for joining so we can get to know you and help you on your journey](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers)
@@ -7,6 +8,8 @@
 :calendar: [Follow our Open Sessions in Calendar Events topic on #announcements or through our AnitaB.org Open Source calendar (PST:clock1:). These are voice calls you can participate in and get to know a bit more our community and projects](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=America/Los_Angeles)
 
 :eyeglasses: Learn about our [Code of Conduct](https://github.com/anitab-org/anitab-org.github.io/blob/develop/docs/code_of_conduct.md) and [Reporting Guidelines](https://github.com/anitab-org/anitab-org.github.io/blob/develop/docs/reporting_guidelines.md) to keep this community safe for you and others.
+
+# [To get Acquainted with Zulip flow](https://zulipchat.com/help/getting-started-with-zulip)  
 
 # Here are the main streams you should be aware of:
 
@@ -38,3 +41,4 @@
 # Resources:
 -[Our Projects](https://github.com/anitab-org):space_invader:
 -[Our Medium Blog](https://medium.com/anitab-org-open-source):black_nib:
+

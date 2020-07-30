@@ -9,7 +9,7 @@
 
 :eyeglasses: Learn about our [Code of Conduct](https://github.com/anitab-org/anitab-org.github.io/blob/develop/docs/code_of_conduct.md) and [Reporting Guidelines](https://github.com/anitab-org/anitab-org.github.io/blob/develop/docs/reporting_guidelines.md) to keep this community safe for you and others.
 
-# [To get Acquainted with Zulip flow](https://zulipchat.com/help/getting-started-with-zulip)  
+# [To get Acquainted with Zulip](https://zulipchat.com/help/getting-started-with-zulip)  
 
 # Here are the main streams you should be aware of:
 
@@ -37,6 +37,6 @@
     3. [general](https://anitab-org.zulipchat.com/#narrow/stream/212722-general):newspaper:
 
 5. Resources:
- 1. [Our Projects](https://github.com/anitab-org):space_invader:
- 2. [Our Medium Blog](https://medium.com/anitab-org-open-source):black_nib:
+    1. [Our Projects](https://github.com/anitab-org):space_invader:
+    2. [Our Medium Blog](https://medium.com/anitab-org-open-source):black_nib:
 

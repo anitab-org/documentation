@@ -7,4 +7,9 @@ At AnitaB.org, we’re committed to increasing the influence of women on all asp
 
 Members of the global AnitaB.org Local community network organize events and provide one another with resources to navigate careers in tech. They organize valuable meetups, codeathons, and one-day HopperX1 events modeled after the Grace Hopper Celebration.
 
+Documents:
+
+- [Our AnitaB.org Open Source blog](/our-blog.md)
+
 For Information regarding our Zulip channel, Zulip /README.md
+

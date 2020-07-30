@@ -3,7 +3,7 @@ Place to document everything about our AnitaB.org Open Source teams
 
 Hey there!
 
-If you are here, it probably means you are either looking for a place to start contributing, or are looking for some direction regarding your current task. This is the place you will find our community's documentation common to all projects. Below is a list of documents currently in this repository. If you feel that none of this documentation is able to a help you, then you can reach out either by asking your question on zulip or by creating an issue requesting the information you need.
+If you are here, it probably means you are either looking for a place to start contributing, or some direction regarding your current task. This is the place you will find our community's documentation common to all projects. Below is a list of documents currently in this repository. If none of these documentation helps, feel free to reach out to us either by asking your question on Zulip or creating an issue requesting the information you need.
 
 ## The documents in this repository:
 - Code of Conduct

@@ -16,12 +16,12 @@
 -Ask your questions  on [questions :question:](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) or [newcomers :new:](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) streams 
     
 -Join streams of your interest such as 
-    -[coding](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding):computer:
-    -[design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design):art:
-    -[documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentatio):notebook_with_decorative_cover:
-    -[outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research):microscope:
-    -[oppoturnites](https://anitab-org.zulipchat.com/#narrow/stream/223069-opportunities):stars:
-    -[quality-assurance](https://anitab-org.zulipchat.com/#narrow/stream/216325-quality-assurance):heavy_check_mark:
+        -[coding](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding):computer:
+        -[design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design):art:
+        -[documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentatio):notebook_with_decorative_cover:
+        -[outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research):microscope:
+        -[oppoturnites](https://anitab-org.zulipchat.com/#narrow/stream/223069-opportunities):stars:
+        -[quality-assurance](https://anitab-org.zulipchat.com/#narrow/stream/216325-quality-assurance):heavy_check_mark:
 
 -You can join also project-specific streams, such as: 
     -[mentorship-system](https://anitab-org.zulipchat.com/#narrow/stream/222534-mentorship-system):mortar_board:

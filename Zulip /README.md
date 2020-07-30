@@ -13,17 +13,17 @@
 
 # Here are the main streams you should be aware of:
 
--Ask your questions  on [questions :question:](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) or [newcomers :new:](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) streams 
+ -Ask your questions  on [questions :question:](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) or [newcomers :new:](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) streams 
     
--Join streams of your interest such as 
-        -[coding](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding):computer:
-        -[design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design):art:
-        -[documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentatio):notebook_with_decorative_cover:
-        -[outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research):microscope:
-        -[oppoturnites](https://anitab-org.zulipchat.com/#narrow/stream/223069-opportunities):stars:
-        -[quality-assurance](https://anitab-org.zulipchat.com/#narrow/stream/216325-quality-assurance):heavy_check_mark:
+ -Join streams of your interest such as 
+    -[coding](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding):computer:
+    -[design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design):art:
+    -[documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentatio):notebook_with_decorative_cover:
+    -[outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research):microscope:
+    -[oppoturnites](https://anitab-org.zulipchat.com/#narrow/stream/223069-opportunities):stars:
+    -[quality-assurance](https://anitab-org.zulipchat.com/#narrow/stream/216325-quality-assurance):heavy_check_mark:
 
--You can join also project-specific streams, such as: 
+ -You can join also project-specific streams, such as: 
     -[mentorship-system](https://anitab-org.zulipchat.com/#narrow/stream/222534-mentorship-system):mortar_board:
     -[open-source-progs](https://anitab-org.zulipchat.com/#narrow/stream/237907-open-source-progs):confetti_ball:
     -[#portal](https://anitab-org.zulipchat.com/#narrow/stream/222540-portal):tada:
@@ -39,6 +39,6 @@
 
 
 # Resources:
--[Our Projects](https://github.com/anitab-org):space_invader:
--[Our Medium Blog](https://medium.com/anitab-org-open-source):black_nib:
+ -[Our Projects](https://github.com/anitab-org):space_invader:
+ -[Our Medium Blog](https://medium.com/anitab-org-open-source):black_nib:
 

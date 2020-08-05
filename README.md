@@ -10,6 +10,5 @@ If you are here, it probably means you are either looking for a place to start c
 - [Our AnitaB.org Open Source blog](/our-blog.md)
 - [Code of Conduct](/Contributing/CODE_OF_CONDUCT.md)
   - This document covers all the points regarding what is expected of you as a member of this community, it lists down appropriate and unappropriate behaviour.
-- [Reporting Guidelines](https://github.com/Frenzyritz13/documentation/blob/master/Contributing/REPORTING_GUIDELINES.md)
+- [Reporting Guidelines](/Contributing/REPORTING_GUIDELINES.md)
   - This document lists the ways you can report in case of violation of the Code of Conduct.
-

@@ -13,3 +13,4 @@ If you are here, it probably means you are either looking for a place to start c
 - [Reporting Guidelines](https://github.com/Frenzyritz13/documentation/blob/master/Contributing/REPORTING_GUIDELINES.md)
   - This document lists the ways you can report in case of violation of the Code of Conduct.
 
+

@@ -40,21 +40,21 @@
         3.  [Open-source-programs-backend](https://github.com/anitab-org/open-source-programs-backend)
 
     3.  [Portal](https://anitab-org.zulipchat.com/#narrow/stream/222540-portal):tada:
-        1.  [GitHub-repo](https://github.com/anitab-org/portal)
+        1.  [Anitab-org/portal](https://github.com/anitab-org/portal)
 
     4.  [STEM-diverse-tv](https://anitab-org.zulipchat.com/#narrow/stream/225705-STEM-diverse-tv):tv:
-        1.  [GitHub-repo](https://github.com/anitab-org/stem-diverse-tv)
+        1.  [Anitab-org/stem-diverse-tv](https://github.com/anitab-org/stem-diverse-tv)
 
     5.  [VMS](https://anitab-org.zulipchat.com/#narrow/stream/222539-vms:):sparkler:
-        1. [GitHub-repo](https://github.com/anitab-org/vms)
+        1. [Anitab-org/vms](https://github.com/anitab-org/vms)
 
     6.  [Anitab-org.github.io](https://anitab-org.zulipchat.com/#narrow/stream/235478-anitab-org.2Egithub.2Eio):octocat:
-        1.  [GitHub-repo](https://github.com/anitab-org/anitab-org.github.io)
+        1.  [Anitab-org/anitab-org.github.io](https://github.com/anitab-org/anitab-org.github.io)
 
-3.  General:You can also check our more general streams:
+3.  General: You can also check our more general streams:
     1.  [Announcements](https://anitab-org.zulipchat.com/#narrow/stream/213491-announcements):microphone:
     2.  [Celebrate](https://anitab-org.zulipchat.com/#narrow/stream/223068-celebrate):sparkler:
     3.  [General](https://anitab-org.zulipchat.com/#narrow/stream/212722-general):newspaper:
     4.  [Oppoturnites](https://anitab-org.zulipchat.com/#narrow/stream/223069-opportunities):stars:
-    5.  [Questions](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) 
-    6.  [Newcomers](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers)  
+    5.  [Questions](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions):question:
+    6.  [Newcomers](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers):new:  

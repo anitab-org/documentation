@@ -1,5 +1,5 @@
 # AnitaB.org Open Source Documentation
-Place to document everything about our AnitaB.org Open Source teams
+This is the place to document everything about our AnitaB.org Open Source community.
 
 Documents:
 

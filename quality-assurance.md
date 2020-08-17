@@ -12,11 +12,6 @@
       * [Volunteer Management System](http://ec2-52-53-177-18.us-west-1.compute.amazonaws.com/en-us/)
       * [Portal](http://ec2-54-215-223-241.us-west-1.compute.amazonaws.com/)
       * [AnitaB.org Open Source Web](https://anitab-org.github.io/)
-      * [STEM Diverse TV](https://github.com/anitab-org/stem-diverse-tv/wiki/Quality-Assurance)
-      * [Bridge in Tech Backend](https://bridgeintech-bit-heroku-psql.herokuapp.com/)
-      * [Bridge in Tech Web]
-      * [Opensource Programs Backend]
-      * [Opensource Programs Web]
       
    b. If testing PRs, you have to setup the dev environment.
       * [How to test a PR?]
@@ -48,9 +43,13 @@
 <h1>Quality Assurance Guidelines</h1>
 
 1. Choose a test scenario in the project you’ve chosen and execute it on either the PR or deployed version that is being tested.
-   * Manual Testing: Manually running the test scenario on the project.
-   * Automated Testing: Writing a piece of code to execute the test and running that code.
+   * Open issues under the respective github repo if you find any bugs.
 
-2. Manual Testing Worksflow:
+2. Search on TestQuality if the Test Case is already documented. If not, document the testcase on TestQuality under the repective Test Plan and Test Suite. Here is a [demo](https://drive.google.com/file/d/1pkxCAPR9G3lYjUf_Ym8bmuglDWBdEU2c/view?usp=sharing).
+   * Have the Test Case reviewed by another QA team member.
 
-3. Automated Testing Workflow:
+3. (Optional) Automate the Test Case, for example: [Mentorship Backend User Journey](https://github.com/anitab-org/mentorship-backend/pull/708).
+
+4. If you decide to skip step 3, search if there is an existing issue to automate that test case. If not, open a issue with label `Quality Assurance`.
+
+5. If you automate a Test case make sure you mark it as `Automated` on TestQuality.

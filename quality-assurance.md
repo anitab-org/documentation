@@ -1,6 +1,6 @@
 <h1>Pre-requisites for contributing towards Quality Assurance</h1>
 
-1. Join #quality-assurance stream on Zulip. Tag @admins on Zulip to add you under the @qa-team tag.
+1. Join [#quality-assurance](https://anitab-org.zulipchat.com/#narrow/stream/216325-quality-assurance) stream on Zulip. Tag @admins on Zulip to add you under the @qa-team tag.
 2. Choose a [project](https://github.com/anitab-org)
    * Join the respective Zulip stream for that project
 3. Setting up the environment of the project

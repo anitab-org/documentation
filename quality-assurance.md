@@ -24,7 +24,7 @@
         * [Dev Environment Setup Notes](https://docs.google.com/document/d/1cLznYyN5VfVraN3swl81Yum1IXG3cyLyIdD85QOuGrY/edit?usp=sharing)
         * [PR testing demo](https://anitab.zoom.us/rec/play/vsEpIe2rpj03T9aSuQSDA_94W9W0J62shnAXqPINnUnmUXEHMAf0MOEVMOt-f8i1epVN8HeS5BurDHjH?startTime=1593537676000&_x_zm_rtaid=bRSfMzm_T4G4tNo7nBPtXQ.1593605707752.e181143531eb9176c6de82c23bf4f24a&_x_zm_rhtaid=490)
       * Mentorship Backend:
-        * Dev Env Setup demo - [Recoreding 1](https://anitab.zoom.us/rec/share/2uNHIJT-5EVJS7PzxVrWfK0oQtS1eaa81HdP-vVcyoErlalT9Mv00cK-ZvtOiMk?startTime=1589121214000), [Recording 2](https://anitab.zoom.us/rec/share/2uNHIJT-5EVJS7PzxVrWfK0oQtS1eaa81HdP-vVcyoErlalT9Mv00cK-ZvtOiMk?startTime=1589121947000), [Recording 3](https://anitab.zoom.us/rec/share/2uNHIJT-5EVJS7PzxVrWfK0oQtS1eaa81HdP-vVcyoErlalT9Mv00cK-ZvtOiMk?startTime=1589122325000)
+        * Dev Env Setup demo - [Recording 1](https://anitab.zoom.us/rec/share/2uNHIJT-5EVJS7PzxVrWfK0oQtS1eaa81HdP-vVcyoErlalT9Mv00cK-ZvtOiMk?startTime=1589121214000), [Recording 2](https://anitab.zoom.us/rec/share/2uNHIJT-5EVJS7PzxVrWfK0oQtS1eaa81HdP-vVcyoErlalT9Mv00cK-ZvtOiMk?startTime=1589121947000), [Recording 3](https://anitab.zoom.us/rec/share/2uNHIJT-5EVJS7PzxVrWfK0oQtS1eaa81HdP-vVcyoErlalT9Mv00cK-ZvtOiMk?startTime=1589122325000)
         * [Setup Notes](https://docs.google.com/document/d/1cOhwTMyo25n0sJLUfOjWTntzZwLTUTvCfL3fKJlKKmY/edit)
         * [Testing PR](https://github.com/anitab-org/mentorship-backend/blob/develop/docs/test-pr-guide.md#steps-to-test-a-pr)
       * VMS:

@@ -14,7 +14,6 @@
       * [AnitaB.org Open Source Web](https://anitab-org.github.io/)
       
    b. If testing PRs, you have to setup the dev environment.
-      * [How to test a PR?]
       * Mentorship Android:
         * [Dev Env Setup demo](https://anitab.zoom.us/rec/share/2uNHIJT-5EVJS7PzxVrWfK0oQtS1eaa81HdP-vVcyoErlalT9Mv00cK-ZvtOiMk?startTime=1589124944000)
         * [Dev Env Setup demo notes](https://docs.google.com/document/d/12D8356IenScM5DSRAITgg5X18tPZkRweXm_P-qmoQGY/edit)
@@ -36,9 +35,51 @@
       * AnitaB.org Open Source Web:
         * [Setup](https://github.com/anitab-org/anitab-org.github.io/blob/develop/README.md)
       * STEM Diverse TV:
-        * [Setup](https://github.com/anitab-org/stem-diverse-android-tv/blob/master/README.md)
+        * [Setup](https://github.com/anitab-org/stem-diverse-android-tv/blob/master/README.md) 
     
 4. Signup on the test management tool [TestQuality](https://anitab-org.testquality.com/signup). Ask on Zulip under #quality-assurance stream tagging @qa-team, to set up your account with the right permission to the project you have chosen.
+
+<h3>How to test a PR?</h3>
+
+1. Pick a PR from the project you have chosen which has the label `Needs Testing`.
+2. Make sure the PR has 2 code review approvals before you start testing.
+3. Go to the Issue that PR is fixing and follow the steps to reproduce that issue while you are under the develop branch.
+4. Run the following commands to get to the PR branch, where <contributor> is the GitHub username of the contributor that submitted the PR:
+  ```
+  git clone https://github.com/<contributor>/mentorship-backend/
+  git checkout <branch-name>
+  ```
+5. Verify the code addition/deletions in the PR.
+6. Reproduce the issue and test the fix.
+7. Leave a review comment on the PR using the following template:
+  ```
+  The changes made in this PR were tested locally. Following are the results:
+
+  1. Code review - Done or Not Done
+
+  2. All possible responses (positive and negative tests) were tested as below:
+
+     * _Test1 Description_  
+       _Screenshot/gif_:  
+       _Expected Result_:  
+       _Actual Result_:
+     * _Test2 Description_  
+       _Screenshot/gif_:  
+       _Expected Result_:  
+       _Actual Result_:  
+       ...  
+    
+  3. Additional testcases covered:
+
+     * _Test1 Description_  
+       _Screenshot/gif_:  
+       _Expected Result_:  
+       _Actual Result_:
+    
+  4. Additional Comments:
+
+  5. Status of PR Changed to: Needs Review or Ready to Merge.
+  ```
 
 <h1>Quality Assurance Guidelines</h1>
 

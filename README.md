@@ -16,6 +16,7 @@ We are glad to know that you would like to contribute to our open source project
 Documents:
 
 - [Our AnitaB.org Open Source blog](/our-blog.md)
+- [Quality Assurance](/quality-assurance.md)
 - [Code of Conduct](/Contributing/CODE_OF_CONDUCT.md)
   - This document covers all the points regarding what is expected of you as a member of this community, it lists down appropriate and unappropriate behaviour.
 - [Reporting Guidelines](/Contributing/REPORTING_GUIDELINES.md)

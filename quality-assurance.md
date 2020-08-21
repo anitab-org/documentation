@@ -83,7 +83,7 @@
   5. Status of PR Changed to: Needs Review or Ready to Merge.
   ```
 
-<h1>Quality Assurance Guidelines</h1>
+<h2>Quality Assurance Contribution Guidelines</h2>
 
 1. Choose a test scenario in the project you’ve chosen and execute it on either the PR or deployed version that is being tested.
    * Open issues under the respective github repo if you find any bugs.

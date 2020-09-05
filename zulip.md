@@ -46,12 +46,17 @@
     *   [#stem-diverse-tv](https://anitab-org.zulipchat.com/#narrow/stream/225705-STEM-diverse-tv)        
         *   [anitab-org/stem-diverse-tv](https://github.com/anitab-org/stem-diverse-tv)
         
-    *  [#vms](https://anitab-org.zulipchat.com/#narrow/stream/222539-vms)                
+    *   [#vms](https://anitab-org.zulipchat.com/#narrow/stream/222539-vms)                
         *   [anitab-org/vms](https://github.com/anitab-org/vms)
 
     *   [#anitab-org.github.io](https://anitab-org.zulipchat.com/#narrow/stream/235478-anitab-org.2Egithub.2Eio)                
         *   [anitab-org/anitab-org.github.io](https://github.com/anitab-org/anitab-org.github.io)
-        
+    
+    *   [#bridge-in-tech](https://anitab-org.zulipchat.com/#narrow/stream/237630-bridge-in-tech)
+        *   [anitab-org/bridge-in-tech-backend](https://github.com/anitab-org/bridge-in-tech-backend)
+        *   [anitab-org/bridge-in-tech-web](https://github.com/anitab-org/bridge-in-tech-web)
+
+
 3.  General: You can also check our more general streams:
     1.  [#announcements](https://anitab-org.zulipchat.com/#narrow/stream/213491-announcements) :microphone:
     2.  [#celebrate](https://anitab-org.zulipchat.com/#narrow/stream/223068-celebrate) :sparkler:

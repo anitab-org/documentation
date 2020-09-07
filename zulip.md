@@ -9,6 +9,7 @@
 2.   :calendar: Follow our Open Sessions in Calendar Events topic on [#announcements](https://anitab-org.zulipchat.com/#narrow/stream/213491-announcements) or through our AnitaB.org Open Source calendar ([PST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=America/Los_Angeles) || [EST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=America/New_York) || [GMT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=GMT) || [WAT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Africa/Lagos) || [IST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Asia/Colombo) || [AEDT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Australia/Sydney)). These are voice calls you can participate in and get to know a bit more our community and projects.
 
 ##   Learning Resources :eyeglasses:
+
 ### To keep this community safe for you and others.
 
 1.  [Code of Conduct](/Contributing/CODE_OF_CONDUCT.md)
@@ -19,8 +20,7 @@
 
 ##  Streams :point_down:
     
-1. Category baseds: These are streams based on a specific type of contribution (e.g.: quality assurance, coding, documentation, etc). Join streams of your interest such as:
-
+1.  Category based: These streams are based on a specific type of contribution (e.g.: quality assurance, coding, documentation, etc). Join streams of your interest such as:
 
     1.  [#coding](https://anitab-org.zulipchat.com/#narrow/stream/216321-coding) :computer:
     2.  [#design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design) :art:
@@ -29,7 +29,8 @@
     5.  [#quality-assurance](https://anitab-org.zulipchat.com/#narrow/stream/216325-quality-assurance) :heavy_check_mark:
 
 
-2. Project Specific: You can join also project-specific streams, such as: 
+2. Project Specific: You can also join project-specific streams, such as:     
+    
     *   [#mentorship-system](https://anitab-org.zulipchat.com/#narrow/stream/222534-mentorship-system) :mortar_board:
         *   [anitab-org/mentorship-backend](https://github.com/anitab-org/mentorship-backend)
         *   [anitab-org/mentorship-flutter](https://github.com/anitab-org/mentorship-flutter)
@@ -58,6 +59,7 @@
 
 
 3.  General: You can also check our more general streams:
+   
     1.  [#announcements](https://anitab-org.zulipchat.com/#narrow/stream/213491-announcements) :microphone:
     2.  [#celebrate](https://anitab-org.zulipchat.com/#narrow/stream/223068-celebrate) :sparkler:
     3.  [#general](https://anitab-org.zulipchat.com/#narrow/stream/212722-general) :newspaper:

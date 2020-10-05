@@ -21,3 +21,5 @@ Documents:
   - This document covers all the points regarding what is expected of you as a member of this community, it lists down appropriate and unappropriate behaviour.
 - [Reporting Guidelines](/Contributing/REPORTING_GUIDELINES.md)
   - This document lists the ways you can report in case of violation of the Code of Conduct.
+- [BEGINNER GUIDELINES](/BEGINNER_GUIDE.md)
+  - This document helps the beginner to know how to contribute in a project and how to use git.  

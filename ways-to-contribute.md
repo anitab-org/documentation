@@ -6,11 +6,9 @@ We encourage you to contribute in any way you can and would like! You can contri
 
 Attend our open sessions (check [our calendar](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com)) or communicate with us on [Zulip](https://anitab-org.zulipchat.com/) to learn more about these types of contribution.
 
-Here's some examples :point_down:
-
 ## Design
 
-Help us improve our projects user interfaces and experience for the users. Zulip stream: [#design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design)
+Help us improve our projects user interfaces and experience for the users. Zulip stream: [#design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design).
 
 - Create mockups for new apps (web or mobile);
 - Create mockups with a redesign of a current app (web or mobile);
@@ -38,7 +36,7 @@ Help us build and improve our applications in multiple tech stacks.
 
 **Note:** Remember to always read our `CONTRIBUTING.md` for the project you contribute to!
 
-## Content
+## Content
 
 Help us create content related to our community. Zulip stream: [#outreach-research](https://anitab-org.zulipchat.com/#narrow/stream/216324-outreach-research).
 
@@ -55,7 +53,7 @@ Help us engage with our members and promote our community inside and outside of 
 - Welcome newcomers in our community;
 - Help and encourage our members to contribute;
 - Engage and answer questions on our Zulip community or GitHub issues and pull requests. Learn more about our zulip here at [zulip.md](/zulip.md);
-- Promote [available]() and [first-timers-only]() issues to our community members;
+- Promote `Status: Available` and `First Timers Only` issues to our community members;
 - Create content to help newcomers get involved.
 
 ## Documentation
@@ -66,7 +64,7 @@ Help us create new and maintain our project's or community documentation. Zulip 
 - Identify gaps in documentation we have and create new documentation;
 - Help us update old documentation (e.g.: on Google Drive or GitHub Wiki).
 
-## Project management
+## Project management
 
 Help us manage our projects, their contributiors and contributions! Zulip stream: [#project-management](https://anitab-org.zulipchat.com/#narrow/stream/258232-project-management).
 

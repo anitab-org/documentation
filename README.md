@@ -12,8 +12,9 @@ We are glad to know that you would like to contribute to our open source project
   - Sign up on [Zulip](http://anitab-org.zulipchat.com) to stay in loop about the development of the various projects.
   - Attend the Open Community sessions to interact with community members and ask questions.
 
-Documents:
+### Documents
 
+- [How to contribute to our community](/ways-to-contribute.md)
 - [Our AnitaB.org Open Source blog](/our-blog.md)
 - [Zulip: our communication channel](/zulip.md)
 - [Quality Assurance](/quality-assurance.md)

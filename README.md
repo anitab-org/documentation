@@ -5,15 +5,16 @@ Hey there!
 
 If you are here, it probably means you are either looking for a place to start contributing, or some direction regarding your current task. This is the place you will find our community's documentation common to all projects. Below is a list of documents currently in this repository. If none of these documentation helps, feel free to reach out to us either by asking your question on Zulip or creating an issue requesting the information you need.
 
-### Contributing
+## Contributing
 
 We are glad to know that you would like to contribute to our open source projects. If you are new to our community, we strongly recommend getting through the following list.
   - Read through the [Code of Conduct](/Contributing/CODE_OF_CONDUCT.md) and [Reporting Guidelines](/Contributing/REPORTING_GUIDELINES.md)
   - Sign up on [Zulip](http://anitab-org.zulipchat.com) to stay in loop about the development of the various projects.
   - Attend the Open Community sessions to interact with community members and ask questions.
 
-Documents:
+## Documentation
 
+- [How to contribute to our community](/ways-to-contribute.md)
 - [Our AnitaB.org Open Source blog](/our-blog.md)
 - [Zulip: our communication channel](/zulip.md)
 - [Quality Assurance](/quality-assurance.md)

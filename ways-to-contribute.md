@@ -58,7 +58,7 @@ Help us engage with our members and promote our community inside and outside of 
 
 ## Documentation
 
-Help us create new and maintain our project's or community documentation. Zulip stream: #documentation.
+Help us create new and maintain our project's or community documentation. Zulip stream: [#documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentation).
 
 - Improve the project documentation we currently have;
 - Identify gaps in documentation we have and create new documentation;

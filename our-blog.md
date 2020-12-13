@@ -1,5 +1,6 @@
 # Our Blog
 
+<img src="https://user-images.githubusercontent.com/62046625/102011093-25807200-3d68-11eb-8985-7e5e36f64d53.jpg" alt="AnitaB.org open source" width="600"/>
 We currently maintain a Medium Publication called [AnitaB.org Open Source](https://medium.com/anitab-org-open-source).
 
 **Table of Content:**

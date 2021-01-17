@@ -54,7 +54,7 @@ A: Each project comes with a README which guides you on how to setup the project
 
 ## Open Source Programs
 
-**Do GCI/GSoC mentors receive compensation?**
+**Q: Do GCI/GSoC mentors receive compensation?**
 A: Please email gci-support@google.com or gsoc-support@google.com for inquiries.
 
 **Q: Can I contribute to GSoC projects even if I’m not a GSoC student?**

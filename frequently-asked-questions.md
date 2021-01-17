@@ -32,7 +32,7 @@ You can also check out more ways to contribute on [ways-to-contribute.md](/ways-
 A: Raise an issue and wait for the approval. Once it’s approved please make it clear for others you are working on the issue.
 
 **Q: Which Issues/PRs do I review as a Newcomer/Mentor/Maintainer?**
-A: All of them.
+A: All of them (regardless of the project).
 
 **Q: I am a past Google Code-in (GCI), participant. How can I contribute to the community?**
 A: In GCI, there are multiple ways to contribute to our community such as outreach, documentation, quality assurance, code, design. Any task that was in GCI is a valid way to contribute to our community.
@@ -82,7 +82,7 @@ A: Here are some reasons:
 ## General 
 
 **Q: Are the Admin 1:1 meetings open to everyone?**
-A: No. The 1:1 Admin meeting is specifically only for admin and invited members.
+A: No. The 1:1 Admin meeting is specifically only for admin and invited members. These may happen in accordance with our Code of Conduct.
 
 **Q: Does AnitaB.org Open Source qualify as a Google Developers Group, Women Tech Maker, any other developer community?**
 A: No. AnitaB.org Open Source is a separate open source community which is not qualified for Google Developers Group or Women Tech Maker. Our community mainly focuses on providing opportunities to anyone to get involved in open source projects aligns with AnitaB.org missions and values.

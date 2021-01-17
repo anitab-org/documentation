@@ -54,14 +54,17 @@ A: Each project comes with a README which guides you on how to setup the project
 
 ## Open Source Programs
 
+**Q: Can previous ambassadors, apply to be an ambassador again?**
+A: Yes! You can re-apply.
+
 **Q: Do GCI/GSoC mentors receive compensation?**
 A: Please email gci-support@google.com or gsoc-support@google.com for inquiries.
 
 **Q: Can I contribute to GSoC projects even if I’m not a GSoC student?**
 A: Yes, GSoC projects are discussed in public channels because we want community involvement. You can even attend weekly meetings of each project if you want to! These projects are just as open source as they were before the GSoC selections. You can contribute with ideas, and even issues if they're not labeled as GSoC issues.
 
-**Q: Do I have to be a part of GCI/GSoC to contribute to AnitaB.org Open Source?**
-A: No, you don’t need to be a part of GCI/GSoC to contribute to AnitaB.org Open Source. Anyone can contribute to the open source community anytime.
+**Q: Do I have to be a part of GCI/GSoC/Ambassadors/Maintainers to contribute to AnitaB.org Open Source?**
+A: No, you don’t need to be a part of those programs to contribute to AnitaB.org Open Source. Anyone can contribute to the open source community anytime.
 
 **Q: Do I have to be a part of Open Source Ambassadors to contribute to AnitaB.org Open Source?**
 A: No, you do not have to be a part of open source teams to contribute to AnitaB.org Open Source.

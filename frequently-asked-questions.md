@@ -76,7 +76,7 @@ A: Nope, we moved to Zulip - [AnitaB-org.zulipchat.com](https://anitab-org.zulip
 **Q: Why did we move from Slack to Zulip?**
 A: Here are some reasons:
 - Private Messages were disabled.
-- Age minimum on Slack is 16 years old, which excludes our Google Code-in Participants.
+- Minimum age required to be on Slack is 16 years, which excludes our Google Code-in Participants.
 
 ## General 
 

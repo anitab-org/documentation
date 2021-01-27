@@ -28,7 +28,7 @@ A: **Zero technical knowledge needed!** Because you can always help with documen
 You can also check out more ways to contribute on [ways-to-contribute.md](/ways-to-contribute.md).
 
 **Q: I have found a bug. What should I do?**
-A: Raise an issue and wait for the approval. Once it’s approved please make it clear for others you are working on the issue.
+A: Raise an issue and wait for the approval. Once it’s approved, if you wish to work on it, leave a comment asking to do so, if you are not interested in working on it, you can leave it as is for another contributor to pick it up.
 
 **Q: Which Issues/PRs do I review as a Newcomer/Mentor/Maintainer?**
 A: All of them (regardless of the project).

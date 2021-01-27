@@ -34,7 +34,7 @@ A: Raise an issue and wait for the approval. Once it’s approved please make it
 A: All of them (regardless of the project).
 
 **Q: Can I contribute to GSoC projects even if I’m not a GSoC student?**
-A: Yes, GSoC projects are discussed in public channels because we want community involvement. You can even attend weekly meetings for each project if you want to! These projects are just as open source as they were before the GSoC selections. You can contribute with ideas, and even issues if they're not labelled as GSoC issues.
+A: Yes, GSoC projects are discussed in public channels because we want community involvement. You can even attend weekly meetings for each project if you want to! These projects are just as open source as they were before the GSoC selections. You can contribute with ideas, and even issues if they're not labeled as GSoC issues.
 
 **Q: Can I private message and why can’t I send a PM to other AnitaB.org Open Source member?**
 A: No. Private messaging is disabled and not allowed in the AnitaB.org community. This decision was made in an effort to reduce the amount of inappropriate conduct that was sent in private messages to our female-identifying members. Read more in this [Zulip message by one of the admins](https://anitab-org.zulipchat.com/#narrow/stream/213491-announcements/topic/Code.20of.20Conduct/near/193115029).

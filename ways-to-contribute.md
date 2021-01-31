@@ -1,6 +1,6 @@
 # Ways to contribute
 
-This document lists the many ways **you** as a member of this community can contribute to our community! You can be a newcomer to the community or someone that is with us for a while :)
+This document lists the many ways **you** as a member of this community can contribute to our community! You can be a newcomer to the community or someone who is with us for a while :)
 
 We encourage you to contribute in any way you can and would like! You can contribute in many categories such as quality assurance, design, coding, outreach/research, documentation, ...
 
@@ -12,7 +12,7 @@ Help us improve our projects user interfaces and experience for the users. Zulip
 
 - Create mockups for new apps (web or mobile);
 - Create mockups with a redesign of a current app (web or mobile);
-- Help us improve our apps accesssbility;
+- Help us improve our apps accessibility;
 - Research UI/UX improvements for our apps through user testing.
 
 ## Quality Assurance
@@ -20,7 +20,7 @@ Help us improve our projects user interfaces and experience for the users. Zulip
 Help us improve the code and overall quality of our apps. Zulip stream: [#quality-assurance](https://anitab-org.zulipchat.com/#narrow/stream/216325-quality-assurance).
 
 - Verify bugs reported in project issues by reproducing them;
-- Test pull request code and report the results, so we can verify new code is working properly. Learn more about our processs here at [quality-assurance.md](/quality-assurance.md);
+- Test pull request code and report the results, so we can verify new code is working properly. Learn more about our processes here at [quality-assurance.md](/quality-assurance.md);
 - Help us document test cases for our apps;
 - Test our apps in production and report bugs through creating issues;
 - Improve our code coverage by writing tests (unit and UI tests).
@@ -66,7 +66,7 @@ Help us create new and maintain our project's or community documentation. Zulip 
 
 ## Project management
 
-Help us manage our projects, their contributiors and contributions! Zulip stream: [#project-management](https://anitab-org.zulipchat.com/#narrow/stream/258232-project-management).
+Help us manage our projects, their contributors and contributions! Zulip stream: [#project-management](https://anitab-org.zulipchat.com/#narrow/stream/258232-project-management).
 
 - Label issues;
 - Assign and unassign contributors to our issues;

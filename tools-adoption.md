@@ -1,4 +1,4 @@
-# Processes across our projects
+# Tools across our projects
 
 This page is supposed to track the proocesses that are adopted on in progress.
 
@@ -16,7 +16,7 @@ This page is supposed to track the proocesses that are adopted on in progress.
 | anitab-org.github.io | ✅ | ❌ | N/A | ✅ |
 | mentorship-backend | ✅ | ❌ | ✅ | N/A |
 | mentorship-android | ❌ | ❌ | N/A | ✅ |
-| stem-diverse-tv | ❌ | ❌ | ❌ | N/A |
+| stem-diverse-tv | ❌ | ❌ | ✅ | N/A |
 | stem-diverse-tv-cms | ❌ | ❌ | ❌ | N/A |
 | bridge-in-tech-backend | ❌ | ❌ | ✅ | N/A |
 | bridge-in-tech-web | ❌ | ❌ | ❌ | N/A |

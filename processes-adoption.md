@@ -1,7 +1,7 @@
 # Processes Adoption
 
 | Project | GitHub Actions | Docusaurus |
-|-|-|-|
+|-|:-:|:-:|
 | anitab-org.github.io | ✅ |  |
 | mentorship-backend | ✅ |  |
 | mentorship-android |  |  |

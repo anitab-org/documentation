@@ -1,13 +1,12 @@
 # Tools across our projects
 
-This page is supposed to track the proocesses that are adopted on in progress.
+This page is supposed to track the adoption of the tools that want to use across our projects.
 
 ## Goals
 
 - Migrate from Travis CI to GitHub Actions
 - Migrate GitHub wiki documentation to Docusaurus
 - Have a deployable version of each app. E.g.: Heroku or GitHub Pages or mobile apk
-
 
 ## Tracking
 

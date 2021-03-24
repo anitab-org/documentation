@@ -25,12 +25,12 @@ Open Source Ambassadors is at least half year contribution program organised by 
 - Create User Journey wireframes
 - Meet on a monthly basis, with all designers to discuss processes
 
----
+
 header-includes:
     - \usepackage[most]{tcolorbox}
     - \definecolor{light-grey}{rgb}{1, 0.95, 0.7}
     - \newtcolorbox{myquote}{colback=light-grey,grow to right by=-10mm,grow to left by=-10mm, boxrule=0pt,boxsep=0pt,breakable}
     - \newcommand{\Join us on Zulip!}[1]{\begin{myquote} \emph{#1} \end{myquote}}
 ---
-[Join us on Zulip!](https://anitab-org.zulipchat.com/accounts/login)
+\[Join us on Zulip!](https://anitab-org.zulipchat.com/accounts/login)
 */[~ ~ ~Join us on Zulip!~ ~ ~](https://anitab-org.zulipchat.com/accounts/login)/*

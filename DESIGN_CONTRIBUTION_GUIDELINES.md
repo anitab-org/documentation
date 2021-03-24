@@ -24,3 +24,5 @@ Open Source Ambassadors is at least half year contribution program organised by 
 - Attend design session to discuss challenges in design within our projects
 - Create User Journey wireframes
 - Meet on a monthly basis, with all designers to discuss processes
+
+'[Join us on Zulip!](https://anitab-org.zulipchat.com/accounts/login/)'

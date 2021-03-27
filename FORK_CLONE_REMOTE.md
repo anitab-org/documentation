@@ -1,3 +1,6 @@
+# Fork, Clone & Remote
+
+
 ## Fork
 
 <b> Note: </b> <i>This is only needed if you want to contribute to the project.</i>
@@ -19,7 +22,7 @@ For example:
 git clone https://github.com/YOUR_GITHUB_USER_NAME/<Respository_Name> 
 ```
 
-where ```YOUR_GITHUB_USER_NAME``` is your GitHub handle and <Project_Name> is name of Project you are trying to Clone.
+where ```YOUR_GITHUB_USER_NAME``` is your GitHub handle and ```<Project_Name>``` is name of Project you are trying to Clone.
 
 * If you haven't forked the project, run the following command 
 

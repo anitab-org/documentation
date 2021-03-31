@@ -18,29 +18,29 @@ For example:
 
 * If you have forked the project, run the following command -
 
-```
+`
 git clone https://github.com/YOUR_GITHUB_USER_NAME/<Respository_Name> 
-```
+`
 
-where ```YOUR_GITHUB_USER_NAME``` is your GitHub handle and ```<Project_Name>``` is name of Project you are trying to Clone.
+where `YOUR_GITHUB_USER_NAME` is your GitHub handle and `<Project_Name>` is name of Project you are trying to Clone.
 
 * If you haven't forked the project, run the following command 
 
-```
+`
 git clone https://github.com/anitab-org/<Project_Name>
-```
+`
 
-```<Project_Name>``` is name of Project you are trying to Clone, for example, mentorship-backend
+`<Project_Name>` is name of Project you are trying to Clone, for example, mentorship-backend
 
 ## Remote
 
 <b> Note:</b> <i>This is only needed if you want to contribute to the project.</i>
 
-When a repository is cloned, it has a default remote named ```origin``` that points to your fork on GitHub, not the original repository it was forked from. To keep track of the original repository, you should add another remote named upstream. For this project it can be done by running the following command -
+When a repository is cloned, it has a default remote named `origin` that points to your fork on GitHub, not the original repository it was forked from. To keep track of the original repository, you should add another remote named upstream. For this project it can be done by running the following command -
 
-```git remote add upstream https://github.com/anitab-org/<Project_Name>```
+`git remote add upstream https://github.com/anitab-org/<Project_Name>`
 
-You can check that the previous command worked by running ```git remote -v```. You should see the following output:
+You can check that the previous command worked by running `git remote -v`. You should see the following output:
 
 ```
 $ git remote -v

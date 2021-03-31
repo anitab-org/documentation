@@ -40,7 +40,7 @@ When a repository is cloned, it has a default remote named ```origin``` that poi
 
 ```git remote add upstream https://github.com/anitab-org/<Project_Name>```
 
-You can check that the previous command worked by running ==git remote -v==. You should see the following output:
+You can check that the previous command worked by running ```git remote -v```. You should see the following output:
 
 ```
 $ git remote -v

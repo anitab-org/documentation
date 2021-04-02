@@ -13,7 +13,7 @@ This page is supposed to track the adoption of the tools that want to use across
 | Project | GitHub Actions | Docusaurus | Heroku | GitHub Pages |
 |-|:-:|:-:|:-:|:-:|
 | anitab-org.github.io | ✅ | ❌ | N/A | ✅ |
-| mentorship-backend | ✅ | ❌ | ✅ | N/A |
+| mentorship-backend | ✅ | ✅ | ✅ | N/A |
 | mentorship-android | ✅ | ❌ | N/A | ✅ |
 | stem-diverse-tv | ❌ | ❌ | ✅ | N/A |
 | stem-diverse-tv-cms | ❌ | ❌ | ❌ | ✅ |

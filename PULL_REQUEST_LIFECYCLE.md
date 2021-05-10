@@ -9,17 +9,17 @@
 
 * Minimum Reviews = 2 PR Reviews from any person (at least 1 PR Review from a Maintainer)
 * if successful, 
-    Status Change → Label “Status: Needs Testing”
+    * Status Change → Label “Status: Needs Testing”
 * if not successful, the Reviewer pings the author to let them know where PR failed. Contributor is responsible for making changes.
-    Status Change → Label “Status: Changes Requested”
+    * Status Change → Label “Status: Changes Requested”
 
 **Status: Needs Testing**
 
 * Minimum QA = 1 QA report (using [this template](quality-assurance.md#how-to-test-a-pr)) from any person (except the author)
 * If successful, 
-    Status Change → Label “Status: Ready to Merge”
+    * Status Change → Label “Status: Ready to Merge”
 * If not successful, QA pings author to let them know where PR failed. Contributor is responsible for making changes.
-    Status Change → Label “Status: Changes Requested”
+    * Status Change → Label “Status: Changes Requested”
 
 **Status: Ready to Merge**
 

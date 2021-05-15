@@ -10,7 +10,7 @@
 * Minimum Reviews = 2 PR Reviews from any person (at least 1 PR Review from a Maintainer)
 * if successful, 
     * Status Change → Label “Status: Needs Testing”
-* if not successful, the Reviewer pings the author to let them know where PR failed. Contributor is responsible for making changes.
+* if not successful, the Reviewer pings the author to let them know various scopes for improvement. Contributor is responsible for making changes.
     * Status Change → Label “Status: Changes Requested”
 
 **Status: Needs Testing**

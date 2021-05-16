@@ -27,3 +27,4 @@ Below is a list of documents currently in this repository. If none of these docu
 - [Reporting Guidelines](/Contributing/REPORTING_GUIDELINES.md)
   - This document lists the ways you can report in case of violation of the Code of Conduct.
 - [Frequently Asked Questions (FAQs)](/frequently-asked-questions.md)
+- [Community Open Sessions](/COMMUNITY_OPEN_SESSIONS.md)

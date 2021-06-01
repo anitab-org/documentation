@@ -21,7 +21,7 @@ Below is a list of documents currently in this repository. If none of these docu
 - [Our AnitaB.org Open Source Blog publication](/our-blog.md)
 - [Zulip: our communication channel](/zulip.md)
 - [Quality Assurance contribution guidelines](/quality-assurance.md)
-- [Design Contribution contribution guidelines](/DESIGN_CONTRIBUTION_GUIDELINES.md)
+- [Design Contribution guidelines](/DESIGN_CONTRIBUTION_GUIDELINES.md)
 - [Code of Conduct](/Contributing/CODE_OF_CONDUCT.md)
   - This document covers all the points regarding what is expected of you as a member of this community, it lists down appropriate and unappropriate behaviour.
 - [Reporting Guidelines](/Contributing/REPORTING_GUIDELINES.md)

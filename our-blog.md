@@ -43,7 +43,7 @@ Make sure to provide us with following details:
 3. Select "Add to publication" option;
 4. Select the AnitaB.org Open Source (you will see this in case you are a writer);
     <img src="https://user-images.githubusercontent.com/11148726/87883600-78940a00-ca00-11ea-9534-49eabeff2f16.png" alt="AnitaB.org open source option in the dropdown" width="600"/>
-5. Click submit!
+5. Click submit 
 
 **References:**
 - [Add a draft or post to publication](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication) on Medium

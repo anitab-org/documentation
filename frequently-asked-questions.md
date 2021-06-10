@@ -71,7 +71,7 @@ A: No, you do not have to be a part of open source teams to contribute to AnitaB
 A: We rebranded from Systers Open Source to AnitaB.org Open Source in 2020. GitHub projects that were active or still needed development have been moved to [github.com/anitab-org](http://github.com/anitab-org). 
 
 **Q: Are we still using Systers-open source on Slack?**
-A: Nope, we moved to Zulip - [AnitaB-org.zulipchat.com](https://anitab-org.zulipchat.com/) and anyone who was in our Slack was invited to the new workspace.
+A: Nope, we moved to Zulip - [AnitaB-org.zulipchat.com](https://anitab-org.zulipchat.com/) and those who were in our Slack were invited to the new workspace.
 
 **Q: Why did we move from Slack to Zulip?**
 A: Here are some reasons:

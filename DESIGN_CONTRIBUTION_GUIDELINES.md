@@ -16,11 +16,11 @@ Open Source Ambassadors is at least half year contribution program organised by 
 
 ## General Responsibilities
 
-- Attend product roadmap in assigned project.
-- Review existing designs.
-- Design new feature, redesign existing features (if ticket exist and assigned).
-- Create and maintain metrics document and guard consistency in the project.
-- Review UI coding PR’s (test if everything looks as expected).
-- Attend design session to discuss challenges in design within our projects.
-- Create User Journey wireframes.
-- Meet on a monthly basis, with all designers to discuss processes.
+- Attend product roadmap in assigned project
+- Review existing designs
+- Design new feature, redesign existing features (if ticket exist and assigned)
+- Create and maintain metrics document and guard consistency in the project
+- Review UI coding PR’s (test if everything looks as expected)
+- Attend design session to discuss challenges in design within our projects
+- Create User Journey wireframes
+- Meet on a monthly basis, with all designers to discuss processes

@@ -2,7 +2,7 @@
 
 This document lists the many ways **you** as a member of this community can contribute to our community! You can be a newcomer to the community or someone who is with us for a while :)
 
-We encourage you to contribute in any way you can and would like! You can contribute in many categories such as quality assurance, design, coding, outreach/research, documentation, ...
+We encourage you to contribute in any way you can and would like! You can contribute in many categories such as quality assurance, design, coding, outreach/research, documentation etc.
 
 Attend our open sessions (check [our calendar](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com)) or communicate with us on [Zulip](https://anitab-org.zulipchat.com/) to learn more about these types of contribution.
 

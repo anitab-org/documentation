@@ -4,7 +4,7 @@
 * PR needs to link to the issue #
     * Issue needs to be validated (at least 1 person from the “core team” of the project)
     * Issue needs to be assigned to the person who submitted the PR 
-
+    * **Exception:** this may not be needed if the PR is about small typo fixes
 **Status: Needs Review**
 
 * Minimum Reviews = 2 PR Reviews from any contributor (at least 1 PR Review from a Maintainer)

@@ -19,7 +19,7 @@ Below is a list of documents currently in this repository. If none of these docu
 
 - [Ways to contribute to our community](/ways-to-contribute.md)
 - [Our AnitaB.org Open Source Blog publication](/our-blog.md)
-- [Zulip: our communication channel](/zulip.md)
+- [Zulip: our communication channel](/ZULIP.md)
 - [Quality Assurance contribution guidelines](/quality-assurance.md)
 - [Design Contribution contribution guidelines](/DESIGN_CONTRIBUTION_GUIDELINES.md)
 - [Code of Conduct](/Contributing/CODE_OF_CONDUCT.md)

@@ -1,6 +1,8 @@
 # Zulip
 
-##  Getting started on Zulip:
+AnitaB.org Open Source Zulip is our main communication channel. Join at [https://anitab-org.zulipchat.com/](https://anitab-org.zulipchat.com/).
+
+##  Getting started on Zulip
 
 ### If you’re new here, here’s what you can do to get started with this community:
 
@@ -63,4 +65,32 @@
     3.  [#general](https://anitab-org.zulipchat.com/#narrow/stream/212722-general) :newspaper:
     4.  [#opportunities](https://anitab-org.zulipchat.com/#narrow/stream/223069-opportunities) :stars:
     5.  [#questions](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) :question:
-    6.  [#newcomers](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) :new:  
+    6.  [#newcomers](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) :new:
+
+## Messages Templates
+
+### Meeting Summary
+
+**Goal:** Post on Zulip at the end of each meeting
+
+```
+:calendar:  **Open Session title**
+
+:note: Today's [Meeting minutes]({meeting minutes document link heading the appropriate date})
+
+:darts: **Summary:** 
+* Point 1
+* ...
+
+:checkbox: **Action Items**
+* Person 1: Action item 1
+* ...
+```
+
+### Our Calendar in different timezones
+
+**Goal:** Post this in Zulip messages where we would like to share our calendars in many timezones
+
+```
+[PST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=America/Los_Angeles) || [EST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=America/New_York) || [GMT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=GMT) || [WAT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Africa/Lagos) || [IST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Asia/Colombo) || [AEDT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Australia/Sydney)
+```

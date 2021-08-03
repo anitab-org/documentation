@@ -34,7 +34,7 @@ git clone https://github.com/<your-github-username>/documentation
 **3.** Navigate to the project directory.
 
 ```bash
-cd Care4ther-
+cd documentation
 ```
 **5.** Create a new branch:
 ```bash

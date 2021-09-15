@@ -48,7 +48,7 @@
 3. Go to the Issue that PR is fixing and follow the steps to reproduce that issue while you are under the develop branch.
 4. Run the following commands to get to the PR branch, where <id> is the PR id and <branch_name> is the PR branch name:
   ```
-  git fetch upstream pull/ID/head:<branch_name>
+  git fetch upstream pull/<id>/head:<branch_name>
   git checkout <branch_name>
   ```
 5. Alternatively, if you use the github cli, you can run the following command:

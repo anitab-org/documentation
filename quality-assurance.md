@@ -51,7 +51,7 @@
   git fetch upstream pull/<id>/head:<branch_name>
   git checkout <branch_name>
   ```
-5. Alternatively, if you use the github cli, you can run the following command:
+5. Alternatively, if you use the [GitHub CLI](https://cli.github.com/), you can run the following command:
   ```
   gh pr checkout <pr_number>
   ```

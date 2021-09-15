@@ -46,14 +46,18 @@
 1. Pick a PR from the project you have chosen which has the label `Needs Testing`.
 2. Make sure the PR has 2 code review approvals before you start testing.
 3. Go to the Issue that PR is fixing and follow the steps to reproduce that issue while you are under the develop branch.
-4. Run the following commands to get to the PR branch, where <contributor> is the GitHub username of the contributor that submitted the PR:
+4. Run the following commands to get to the PR branch, where <id> is the PR id and <branch_name> is the PR branch name:
   ```
-  git clone https://github.com/<contributor>/mentorship-backend/
-  git checkout <branch-name>
+  git fetch upstream pull/<id>/head:<branch_name>
+  git checkout <branch_name>
   ```
-5. Verify the code addition/deletions in the PR.
-6. Reproduce the issue and test the fix.
-7. Leave a review comment on the PR using the following template:
+5. Alternatively, if you use the [GitHub CLI](https://cli.github.com/), you can run the following command:
+  ```
+  gh pr checkout <pr_number>
+  ```
+6. Verify the code addition/deletions in the PR.
+7. Reproduce the issue and test the fix.
+8. Leave a review comment on the PR using the following template:
   ```
   The changes made in this PR were tested locally. Following are the results:
 

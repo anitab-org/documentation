@@ -9,11 +9,11 @@
 
    a. If testing dev environment (stage), you can use deployed versions. You need not setup up the dev environment locally.
       * [Mentorship Android](https://github.com/anitab-org/mentorship-android/tree/apk)
-      * [Mentorship Flutter](https://github.com/anitab-org/mentorship-flutter/tree/apk)
       * [Mentorship Backend](https://mentorship-backend-temp.herokuapp.com/)
-      * [Volunteer Management System](http://ec2-52-53-177-18.us-west-1.compute.amazonaws.com/en-us/)
-      * [Portal](http://ec2-54-215-223-241.us-west-1.compute.amazonaws.com/)
       * [AnitaB.org Open Source Web](https://anitab-org.github.io/)
+      * [Bridge-In-Tech](bridge-in-tech-web-heroku.herokuapp.com) 
+      * [STEM Diverse TV](https://stem-diverse-tv.herokuapp.com/)
+      * [Anitab Forms Web](https://anitab-org.github.io/anitab-forms-web/)
       
    b. If testing PRs, you have to setup the dev environment.
       * Mentorship Android:

@@ -1,6 +1,6 @@
 ## **Guidelines**
 
-Make sure contributors are respecting the [Contribution Guidelines](https://github.com/anitab-org/anitab-org.github.io/blob/develop/CONTRIBUTING.md). If they don't let them know about it: what is missing, what was disrespected?
+Make sure contributors are respecting the [Contribution Guidelines](https://github.com/anitab-org/anitab-org.github.io/blob/develop/.github/CONTRIBUTING.md). If they don't let them know about it: what is missing, what was disrespected?
 
 ### Code Review
 

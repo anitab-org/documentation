@@ -4,11 +4,11 @@ This document lists the many ways **you** as a member of this community can cont
 
 We encourage you to contribute in any way you can and would like! You can contribute in many categories such as quality assurance, design, coding, outreach/research, documentation, ...
 
-Attend our open sessions (check [our calendar](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com)) or communicate with us on [Zulip](https://anitab-org.zulipchat.com/) to learn more about these types of contribution.
+Attend our open sessions (check [our calendar](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com)) or communicate with us on [Zulip](https://anitab-org.zulipchat.com/) to learn more about these types of contributions.
 
 ## Design
 
-Help us improve our projects user interfaces and experience for the users. Zulip stream: [#design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design).
+Help us improve our project's user interfaces and experience for the users. Zulip stream: [#design](https://anitab-org.zulipchat.com/#narrow/stream/216323-design).
 
 - Create mockups for new apps (web or mobile);
 - Create mockups with a redesign of a current app (web or mobile);
@@ -22,7 +22,7 @@ Help us improve the code and overall quality of our apps. Zulip stream: [#qualit
 - Verify bugs reported in project issues by reproducing them;
 - Test pull request code and report the results, so we can verify new code is working properly. Learn more about our processes here at [quality-assurance.md](/quality-assurance.md);
 - Help us document test cases for our apps;
-- Test our apps in production and report bugs through creating issues;
+- Test our apps in production and report bugs by creating issues;
 - Improve our code coverage by writing tests (unit and UI tests).
 
 ## Coding
@@ -30,9 +30,9 @@ Help us improve the code and overall quality of our apps. Zulip stream: [#qualit
 Help us build and improve our applications in multiple tech stacks.
 
 - Review our projects' pull requests;
-- Solve bugs from our applications;
+- Solve bugs in our applications;
 - Write new features for our projects;
-- Help answering technical questions on Zulip or GitHub issues.
+- Help answer technical questions on Zulip or GitHub issues.
 
 **Note:** Remember to always read our `CONTRIBUTING.md` for the project you contribute to!
 
@@ -50,7 +50,7 @@ Help us engage with our members and promote our community inside and outside of 
 
 - Organize or help organize events for our community (e.g.: design team organized introduction to Figma tool session);
 - Share on social media about our work and or your contributions to us (feel free to use #AnitaBOpenSource hashtag)
-- Welcome newcomers in our community;
+- Welcome newcomers to our community;
 - Help and encourage our members to contribute;
 - Engage and answer questions on our Zulip community or GitHub issues and pull requests. Learn more about our zulip here at [zulip.md](/zulip.md);
 - Promote `Status: Available` and `First Timers Only` issues to our community members;
@@ -58,7 +58,7 @@ Help us engage with our members and promote our community inside and outside of 
 
 ## Documentation
 
-Help us create new and maintain our project's or community documentation. Zulip stream: [#documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentation).
+Help us create new and maintain our projects or community documentation. Zulip stream: [#documentation](https://anitab-org.zulipchat.com/#narrow/stream/216326-documentation).
 
 - Improve the project documentation we currently have;
 - Identify gaps in documentation we have and create new documentation;
